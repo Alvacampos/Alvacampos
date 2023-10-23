@@ -8,6 +8,8 @@ I'm in a serious relationship with Javascript but open to spiced things up with 
 
 You can contact me via email to gonzaloralvarezcampos@gmail.com or go to my linkedin page https://www.linkedin.com/in/gonzaloalvarezcampos/
 
+## My stats:
+
 ![Alvacampos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvacampos&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 ![Alvacampos's Stats](https://github-readme-stats.vercel.app/api?username=Alvacampos&theme=nord&show_icons=true&hide_border=false&count_private=true)
