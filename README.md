@@ -13,5 +13,3 @@ You can contact me via email to gonzaloralvarezcampos@gmail.com or go to my link
 ![Alvacampos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvacampos&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 ![Alvacampos's Stats](https://github-readme-stats.vercel.app/api?username=Alvacampos&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-![Alvacampos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alvacampos&theme=nord&hide_border=false)
